@@ -8,3 +8,4 @@ export TARGET_KERNEL_CLANG_VERSION=proton
 rm -rf vendor/gapps
 export BOARD_USES_QCOM_HARDWARE=true 
 export TARGET_BOARD_PLATFORM=msm8998
+export SRC_AUDIO_HAL_DIR=hardware/qcom-caf/msm8998/audio  
