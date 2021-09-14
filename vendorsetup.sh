@@ -1,3 +1,2 @@
-git clone https://github.com/kdrag0n/proton-clang -b master prebuilts/clang/host/linux-x86/clang-proton --depth=1
+git clone https://github.com/4-19-Tulip/android_prebuilts_clang_host_linux-x86_clang-7612306 -b 11 prebuilts/clang/host/linux-x86/clang-7612306
 export ALLOW_MISSING_DEPENDENCIES=true
-rm -rf vendor/gapps
